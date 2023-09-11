@@ -1,6 +1,6 @@
 .navbar {
   height: 80px;
-  background-color: #AEC3AE;
+  background-color: #aec3ae;
 
   .wrapper {
     padding: 20px 30px;
@@ -27,6 +27,15 @@
       display: flex;
       align-items: center;
       gap: 25px;
+
+      .item {
+        .link {
+          color: inherit;
+        }
+        &:hover {
+          font-weight: bold;
+        }
+      }
 
       .icons {
         display: flex;
