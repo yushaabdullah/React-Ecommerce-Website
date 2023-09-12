@@ -44,7 +44,7 @@ const Navbar = () => {
         <div className="right">
           <div className="item">
             <Link className="link" to="/">
-              Homepage
+              Home
             </Link>
           </div>
           <div className="item">
