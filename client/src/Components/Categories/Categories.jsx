@@ -8,7 +8,7 @@ const Categories = () => {
       <div className="col">
         <div className="row">
           <img
-            src="https://images.pexels.com/photos/3496542/pexels-photo-3496542.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            src="https://images.pexels.com/photos/9489161/pexels-photo-9489161.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
             alt=""
           />
           <button>
@@ -47,7 +47,7 @@ const Categories = () => {
           <div className="col">
             <div className="row">
               <img
-                src="https://images.pexels.com/photos/17488170/pexels-photo-17488170/free-photo-of-man-wearing-alternative-outfit.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                src="https://images.pexels.com/photos/605208/pexels-photo-605208.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
                 alt=""
               />
               <button>
